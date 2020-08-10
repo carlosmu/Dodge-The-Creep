@@ -1,2 +1,7 @@
 # Dodge The Creeps
-Basado en la documentación de Godot (https://godotengine.org/)
+Coding exercise based on Godot official learn resources (https://godotengine.org/).
+
+![dodge the creep](demo/screenshot.jpg)
+<br><br>
+<img src="demo/dodge-the-creep.gif" width="200">
+
